@@ -12,7 +12,7 @@
 
 ## 🧠 About Me  
 
-- 💻 BTEC Computer Science Graduate  
+- 💻 BTECH Computer Science Graduate  
 - 🔧 MERN Stack | DevOps | AWS  
 - 🤖 AI-first builder (NLP, OCR, Multimodal AI)  
 - 📈 Focused on product + growth + distribution  
@@ -32,14 +32,14 @@
 - 📊 Personalized learning flow  
 
 ### 📈 Traction  
-- 2K+ users  
+- ### 50K+ users  
 - Growing engagement & retention  
 - Rapid feature iteration  
 
 ### 🛠️ Tech  
 Next.js • Gemini API • OCR • AI workflows  
 
-👉 **Live:** [Add Link]
+👉 **Live:** https://easelearn.ai
 
 ---
 
@@ -52,7 +52,7 @@ Case & client management system for advocates
 - 🔔 Notification system (planned)  
 - ☁️ Firebase sync  
 
-🎥 *Demo:* (Add GIF here)
+Live: https://play.google.com/store/apps/details?id=com.aryan456as.AdvDiary&pcampaignid=web_share
 
 ---
 
@@ -60,8 +60,6 @@ Case & client management system for advocates
 Healthcare platform improving access to liver-related information  
 
 👉 https://livercure.org  
-
-🎥 *Demo:* (Add GIF here)
 
 ---
 
@@ -72,7 +70,7 @@ Browser extension to enhance Jira workflow with better story point visibility & 
 - 🧠 Designed for developers & agile teams  
 - 🌍 Open source contribution  
 
-👉 Repo: [Add Link]
+👉 Repo: https://github.com/aryan456as/jira_code_agent
 
 ---
 
@@ -92,11 +90,12 @@ Inventory & billing system
 
 ### 🤖 AUV (Autonomous Underwater Vehicle)  
 - 🎯 +35% detection accuracy  
-- OpenCV + ROS  
+- OpenCV + ROS
+- Won Second Prize in SRM University and multipe other prizes for this. 
 
 ---
 
-### 📱 Birthday App  
+### 📱 Birthday Wishing Android App  
 - 📈 +25% user satisfaction  
 
 ---
@@ -117,7 +116,6 @@ Inventory & billing system
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan456as&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan456as&layout=compact&theme=tokyonight" />
 </p>
 
