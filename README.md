@@ -133,9 +133,8 @@ Inventory & billing system
 ## 🤝 Connect  
 
 <p>
-<a href="[Add LinkedIn]">LinkedIn</a> •
-<a href="[Add Portfolio]">Portfolio</a> •
-<a href="mailto:[Add Email]">Email</a>
+<a href="https://www.linkedin.com/in/aryan-singh-39419b221?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a> •
+<a href="mailto:aryan.456.dev@gmail.com">Email</a>
 </p>
 
 ---
